@@ -4,6 +4,8 @@
 
 ### By  _**Natalia Telpukhova an Adam Calhoun**_
 
+https://tuesdayhat.github.io/island-resort/
+
 ## Description
 
 _Lists accommodations, activities, travel plans, pictures and contact info for a tropical island resort_
