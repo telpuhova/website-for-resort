@@ -1,4 +1,4 @@
-h1{
+h1 {
   font-size: 100px;
   font-family: "Times New Roman", Times, serif;
   font-style: italic;
@@ -6,26 +6,26 @@ h1{
   color: #ffffff;
 }
 
-h3{
+h3 {
   font-size: 50px;
   font-family: "Times New Roman", Times, serif;
   line-height: 50px;
   color: #ffffff;
 }
 
-body{
-  background-image: url('http://www.beach-backgrounds.com/wallpapers/green-island-beach-background-1920x1200-275.jpg');
+body {
+  background-image: url('../img/background.jpg');
   text-align: center;
 }
 
-p{
+p {
   font-style: italic;
   font-size: 20px;
   line-height: 5px;
   color: #ffffff;
 }
 
-ul{
+ul {
   color: #ffffff;
 }
 
