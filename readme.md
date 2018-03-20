@@ -1,20 +1,22 @@
-# _Island Resort_
+# Island Resort
 
-#### _Website for an island resort_
+Website for an island resort
 
-### By  _**Natalia Telpukhova an Adam Calhoun**_
-
-https://tuesdayhat.github.io/island-resort/
+**By Natalia Telpukhova and Adam Calhoun**
 
 ## Description
 
-_Lists accommodations, activities, travel plans, pictures and contact info for a tropical island resort_
+Lists accommodations, activities, travel plans, pictures and contact info for a tropical island resort
 
-### Setup
-* _clone repository_
-* _Open index.html in browser_
+## Setup
+
+* clone repository
+* open index.html in browser
 
 ## Technologies Used
-_HTML, CSS_
 
-Copyright (c) 2017 **_Epicodus_**
+HTML, CSS
+
+### License
+
+Copyright (c) 2017 Natalia Telpukhova and Adam Calhoun
